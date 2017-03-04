@@ -1,1 +1,3 @@
-something.testitem.name=Test Item
+item.testitem.name=Test Item
+
+itemGroup.tabSomething=Something Awesome
