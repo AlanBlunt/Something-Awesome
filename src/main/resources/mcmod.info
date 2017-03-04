@@ -1,0 +1,16 @@
+[
+{
+  "modid": "something",
+  "name": "Something Awesome",
+  "description": "\"I hope this works!\" - Techies",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AlanBlunt"],
+  "credits": "Nobody, yet...",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
